@@ -6,10 +6,10 @@ Created on Wed Apr 22 10:44:54 2026
 """
 
 # -*- coding: utf-8 -*-
-"""
-#金融資料視覺化看板
-#與新版 order_streamlit.py 相容之修正版
-"""
+
+## 金融資料視覺化看板
+## 與新版 order_streamlit.py 相容之修正版
+
 
 # 載入必要模組
 import os
